@@ -10,7 +10,8 @@ Hi there! I'm Jude Y. Tulel, a passionate software engineer from Kenya. I'm curr
 ## Skills 🚀
 
 - **Programming Languages**: Java, Python, JavaScript
-- **Web Development**: HTML, CSS, ReactJS, React Native
+- **Web Development**: HTML, CSS, ReactJS
+- **Mobile Development**: React Native
 - **Machine Learning/AI**: TensorFlow, PyTorch, Scikit-learn
 - **Databases**: SQL
 - **Version Control**: Git, GitHub
@@ -19,7 +20,7 @@ Hi there! I'm Jude Y. Tulel, a passionate software engineer from Kenya. I'm curr
 
 1. **IoT and ML Integration in Agriculture** ✨
   - Developed a cross-platform mobile application using React Native for crop and fertilizer recommendations
-  - Implemented real-time soil monitoring and utilized Firebase cloud platform
+  - Implemented real-time soil monitoring using ESP32 and soil sensors and utilized Firebase cloud platform for realtime data storage.
   - Created a Python ML model and deployed it as a Flask API for data consumption
 
 2. **E-commerce Website** 🛒
