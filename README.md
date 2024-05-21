@@ -64,6 +64,7 @@ Hi there! I'm Jude Y. Tulel, a passionate software engineer from Kenya. I'm curr
 - Machine Learning Fundamentals Certification, DataCamp (2023)
 - Web Development Bootcamp, FreeCodeCamp (2022)
 - AI and Machine Learning Programming in Python, Udacity (2024)
+- IoT and embedded Programming in C++, IEEE Computer Society MMU-Kenya section(2023-2024)
 
 ## Languages 🌐
 
