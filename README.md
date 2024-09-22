@@ -9,11 +9,11 @@ Hi there! I'm Jude Y. Tulel, a passionate software engineer from Kenya. I'm curr
 
 ## Skills 🚀
 
-- **Programming Languages**: Java, Python, JavaScript
-- **Web Development**: HTML, CSS, ReactJS
+- **Programming Languages**: Java, Python, JavaScript, Solidity,
+- **Web Development**: HTML, CSS, ReactJS, JavaScript
 - **Mobile Development**: React Native
 - **Machine Learning/AI**: TensorFlow, PyTorch, Scikit-learn
-- **Databases**: SQL
+- **Databases**: SQL,MongoDb
 - **Version Control**: Git, GitHub
 
 ## Projects 💡
