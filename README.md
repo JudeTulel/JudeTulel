@@ -19,9 +19,9 @@ I am a Software Engineering student at Multimedia University of Kenya with a pas
 
 - I’m currently learning **Machine Learning** and **Blockchain Development**.
 -  Ask me about **Python**, **Java**, **JavaScript**,**Solidity**, and **React**.
-- 📫 How to reach me: [judeyego202@gmail.com](mailto:judeyego202@gmail.com)
-- ⚡ Fun fact: I love exploring new technologies and applying them to real-world projects.
-
+- How to reach me: [judeyego202@gmail.com](mailto:judeyego202@gmail.com)
+-  Fun fact: I am currently trying to build a tech startup at the silicon savannah
+-  Check [Ystudios]("https://ystudios.vercel.app")
 ## <img src="https://github.com/JudeTulel/JudeTulel/blob/main/images/handshake.gif" width="25px"> Connect with Me
 
 <p align="center">
