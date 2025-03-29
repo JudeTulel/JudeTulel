@@ -77,7 +77,8 @@ Here are some of my notable projects:
 
 - **Machine Learning Fundamentals Certification**, DataCamp (2023)
 - **Web Development Bootcamp**, FreeCodeCamp (2022)
-- **AI and Machine Learning Programming in Python**, Udacity (2024)
+- **Solidity Development Bootcamp**, Web3Clubs (2025)
+- **AI and Machine Learning Programming in Python**, Sankhyana (2024)
 - **IoT and Embedded Programming in C++**, IEEE Computer Society MMU-Kenya section (2023-2024)
 
 ## <img src="https://github.com/JudeTulel/JudeTulel/blob/main/images/languages.gif" width="25px"> Languages
